@@ -5,7 +5,7 @@ QQ群相册批量下载工具，QQ Group Photo Downloader，纯HMTL5实现，简
 
 [使用手册]
 --------------------------------------------------------------------------------
-喜欢图文版说明的请猛戳<a href="">test</a>
+喜欢图文版说明的请猛戳<a href="http://dev.louqibin.me/?p=96">QQ群相册批量下载利器</a>
 --------------------------------------------------------------------------------
 1.	请使用Google Chrome浏览器，其他浏览器的兼容性懒得去测试了，估计都不太靠谱，所以如果你真的需要这个工具的话就乖乖地装个Chrome吧:)  点击链接下载：<a href="https://www.google.com/intl/zh-CN/chrome/browser/">https://www.google.com/intl/zh-CN/chrome/browser/</a>
 
