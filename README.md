@@ -4,6 +4,8 @@ QQ-Group-Photo-Downloader
 QQ群相册批量下载工具，QQ Group Photo Downloader，纯HMTL5实现，简单易用，无需下载
 
 [使用手册]:
+
+
 1.	请使用Google Chrome浏览器，其他浏览器的兼容性懒得去测试了，所以如果你真的需要这个工具的话就乖乖地装个Chrome吧:)  点击链接下载：https://www.google.com/intl/zh-CN/chrome/browser/
 
 2.	打开Chrome，登录QQ群网站，进入你要下载的群相册的主页，注意该页面必须是已经展示出了部分照片的，不是相册封面！（该主页的地址应该类似http://qun.qzone.qq.com/group#!/250027719/photo）然后麻烦你拖动滚动条一直向下直到所有的图片都成功加载=。=（这个工具只会下载当前已加载的图片）
