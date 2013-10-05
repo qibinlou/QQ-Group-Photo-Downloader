@@ -6,7 +6,8 @@ html = "data:text/html," + style + '<a href="https://github.com/qibinlou/QQ-Grou
 
 for(var i = 0; i < album_size; ++i)
 {
-	html += "<a href='"+ (album[i].src.slice(0,album[i].src.length-3) + 800) +"' download='"+ album[i].alt +"'><img src='"+ album[i].src +"'></a>";
+	url = album[i].src.split('?')[0];
+	html += "<a href='"+ (url.slice(0,url.length-3) + 800) +"' download='"+ album[i].alt +"'><img src='"+ album[i].src +"'></a>";
 }
 html += "</div>" + script;
 window.open (html);
